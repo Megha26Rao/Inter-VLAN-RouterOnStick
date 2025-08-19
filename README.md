@@ -1,4 +1,4 @@
-##Inter-VLAN Communication using Router-on-a-Stick
+## Inter-VLAN Communication using Router-on-a-Stick
 
 This project demonstrates how to configure **Inter-VLAN communication** using the Router-on-a-Stick method in a Kali Linux lab.
 
